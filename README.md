@@ -37,7 +37,7 @@ I took the HackerRank Calibration Test on November 13, and finished five of the 
 
 As shown in this GIF, I've already completed almost all the Arrays and Strings problems on InterviewBit (mostly in Python, but I've started doing Java versions of some of them as well):
 
-* [GIF of my InterviewBit Arrays and Strings topic pages]
+* [GIF of my InterviewBit Arrays and Strings topic pages](https://github.com/tachyonlabs/CodePath-Alumni-Professional-Interview-Prep-Course/blob/master/interviewbit-arrays-and-strings-topics.gif)
 
 #### My InterviewBit Arrays solutions so far:
 
