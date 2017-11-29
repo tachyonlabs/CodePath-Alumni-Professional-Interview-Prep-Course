@@ -55,10 +55,10 @@ As shown in [this GIF](https://github.com/tachyonlabs/CodePath-Alumni-Profession
 
 As I mentioned above, I had already completed almost all of the Arrays and Strings problems on InterviewBit in Python, but I did four more Java versions for this assignment:
 
-* Arrays - Spiral Order Matrix II
-* Arrays - First Missing Integer
-* Strings - Longest Common Prefix
-* Strings - Integer to Roman
+* [Arrays - Spiral Order Matrix II](https://github.com/tachyonlabs/CodePath-Alumni-Professional-Interview-Prep-Course/blob/master/interviewbit-arrays-spiral-order-matrix-ii.java)
+* [Arrays - First Missing Integer](https://github.com/tachyonlabs/CodePath-Alumni-Professional-Interview-Prep-Course/blob/master/interviewbit-arrays-first-missing-integer.java)
+* [Strings - Longest Common Prefix](https://github.com/tachyonlabs/CodePath-Alumni-Professional-Interview-Prep-Course/blob/master/interviewbit-strings-longest-common-prefix.java)
+* [Strings - Integer to Roman](https://github.com/tachyonlabs/CodePath-Alumni-Professional-Interview-Prep-Course/blob/master/interviewbit-strings-integer-to-roman.java)
 
 And here's a GIF of my InterviewBit Arrays and Strings topic pages:
 
