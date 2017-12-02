@@ -65,3 +65,17 @@ And here's a GIF of my InterviewBit Arrays and Strings topic pages:
 * [GIF of my InterviewBit Arrays and Strings topic pages](https://github.com/tachyonlabs/CodePath-Alumni-Professional-Interview-Prep-Course/blob/master/interviewbit-arrays-and-strings-topics.gif)
 
 When I went to take the HackerRank "CodePath Interview Prep - Unit 1 Test", I got the message "You have already taken this test as Tané Tachyon on Jul 15, 2017. You can't login to a test that you have already completed." See the "My situation" description at the beginning of this README for an explanation of that.
+
+## Tasks Before Session 2
+
+As shown in [this GIF], I've already completed almost all the Hashing and Linked Lists problems on InterviewBit:
+
+* [GIF of my InterviewBit Hashing and Linked Lists topic pages]
+
+#### My InterviewBit Hashing solutions so far:
+
+* [Colorful Number], [2 Sum], [4 Sum], [Valid Sudoku], [Diffk II], [Anagrams], [Equal], [Copy List], [Longest Substring Without Repeat], [Window String], [Fraction], [Points on the Straight Line], and [Substring Concatenation].
+
+#### My InterviewBit Linked Lists solutions so far:
+
+* [Intersection of Linked Lists], [Reverse Linked List], [Palindrome List], [Remove Duplicates from Sorted List], [Remove Duplicates from Sorted List II], [Merge Two Sorted Lists], [Remove Nth Node from List End], [Rotate List], [Reverse Linked List II], [Reorder List], [K reverse linked list], [Swap List Nodes in pairs], [Add Two Numbers as Lists], [List Cycle], [Partition List], and [Insertion Sort List].
