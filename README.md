@@ -79,3 +79,22 @@ As shown in [this GIF](https://github.com/tachyonlabs/CodePath-Alumni-Profession
 #### My InterviewBit Linked Lists solutions so far:
 
 * [Intersection of Linked Lists](https://github.com/tachyonlabs/CodePath-Alumni-Professional-Interview-Prep-Course/blob/master/interviewbit-linked-lists-intersection-of-linked-lists.py), [Reverse Linked List](https://github.com/tachyonlabs/CodePath-Alumni-Professional-Interview-Prep-Course/blob/master/interviewbit-linked-lists-reverse-linked-list.py), [Palindrome List](https://github.com/tachyonlabs/CodePath-Alumni-Professional-Interview-Prep-Course/blob/master/interviewbit-linked-lists-palindrome-list.py), [Remove Duplicates from Sorted List](https://github.com/tachyonlabs/CodePath-Alumni-Professional-Interview-Prep-Course/blob/master/interviewbit-linked-lists-remove-duplicates-from-sorted-list.py), [Remove Duplicates from Sorted List II](https://github.com/tachyonlabs/CodePath-Alumni-Professional-Interview-Prep-Course/blob/master/interviewbit-linked-lists-remove-duplicates-from-sorted-list-ii.py), [Merge Two Sorted Lists](https://github.com/tachyonlabs/CodePath-Alumni-Professional-Interview-Prep-Course/blob/master/interviewbit-linked-lists-merge-two-sorted-lists.py), [Remove Nth Node from List End](https://github.com/tachyonlabs/CodePath-Alumni-Professional-Interview-Prep-Course/blob/master/interviewbit-linked-lists-remove-nth-node-from-list-end.py), [Rotate List](https://github.com/tachyonlabs/CodePath-Alumni-Professional-Interview-Prep-Course/blob/master/interviewbit-linked-lists-rotate-list.py), [Reverse Linked List II](https://github.com/tachyonlabs/CodePath-Alumni-Professional-Interview-Prep-Course/blob/master/interviewbit-linked-lists-reverse-linked-list-ii.py), [Reorder List](https://github.com/tachyonlabs/CodePath-Alumni-Professional-Interview-Prep-Course/blob/master/interviewbit-linked-lists-reorder-list.py), [K reverse linked list](https://github.com/tachyonlabs/CodePath-Alumni-Professional-Interview-Prep-Course/blob/master/interviewbit-linked-lists-k-reverse-linked-list.py), [Swap List Nodes in pairs](https://github.com/tachyonlabs/CodePath-Alumni-Professional-Interview-Prep-Course/blob/master/interviewbit-linked-lists-swap-list-nodes-in-pairs.py), [Add Two Numbers as Lists](https://github.com/tachyonlabs/CodePath-Alumni-Professional-Interview-Prep-Course/blob/master/interviewbit-linked-lists-add-two-numbers-as-lists.py), [List Cycle](https://github.com/tachyonlabs/CodePath-Alumni-Professional-Interview-Prep-Course/blob/master/interviewbit-linked-lists-list-cycle.py), [Partition List](https://github.com/tachyonlabs/CodePath-Alumni-Professional-Interview-Prep-Course/blob/master/interviewbit-linked-lists-partition-list.py), and [Insertion Sort List](https://github.com/tachyonlabs/CodePath-Alumni-Professional-Interview-Prep-Course/blob/master/interviewbit-linked-lists-insertion-sort-list.py).
+
+## Assignment 2
+
+As I mentioned above, I had already completed almost all of the Hashing and Linked Lists problems on InterviewBit in Python, but I did eight more Java versions for this assignment:
+
+* Hashing - 2 Sum
+* Hashing - Diffk II
+* Hashing - Anagrams
+* Hashing - Copy List
+* Linked Lists - Remove Duplicates from Sorted List
+* Linked Lists - Merge Two Sorted Lists
+* Linked Lists - Remove Nth Node from List End
+* Linked Lists - Add Two Numbers as Lists
+
+And here's a GIF of my InterviewBit Hashing and Linked Lists topic pages:
+
+* [GIF of my InterviewBit Hashing and Linked Lists topic pages](https://github.com/tachyonlabs/CodePath-Alumni-Professional-Interview-Prep-Course/blob/master/interviewbit-hashing-and-linked-lists-topics.gif)
+
+When I went to take the HackerRank "CodePath Interview Prep - Unit 2 Test", once again I got a message about how I had already taken this test last summer and "can't login to a test that you have already completed" -- see the "My situation" description at the beginning of this README for an explanation of that -- so as directed by Patricia in Slack, I took the test as tachyon+alt@tachyonlabs.com instead of tachyon@tachyonlabs.com, and you should have the results.
