@@ -84,14 +84,14 @@ As shown in [this GIF](https://github.com/tachyonlabs/CodePath-Alumni-Profession
 
 As I mentioned above, I had already completed almost all of the Hashing and Linked Lists problems on InterviewBit in Python, but I did eight more Java versions for this assignment:
 
-* Hashing - 2 Sum
-* Hashing - Diffk II
-* Hashing - Anagrams
-* Hashing - Copy List
-* Linked Lists - Remove Duplicates from Sorted List
-* Linked Lists - Merge Two Sorted Lists
-* Linked Lists - Remove Nth Node from List End
-* Linked Lists - Add Two Numbers as Lists
+* [Hashing - 2 Sum](https://github.com/tachyonlabs/CodePath-Alumni-Professional-Interview-Prep-Course/blob/master/interviewbit-hashing-2-sum.java)
+* [Hashing - Diffk II](https://github.com/tachyonlabs/CodePath-Alumni-Professional-Interview-Prep-Course/blob/master/interviewbit-hashing-diffk-ii.java)
+* [Hashing - Anagrams](https://github.com/tachyonlabs/CodePath-Alumni-Professional-Interview-Prep-Course/blob/master/interviewbit-hashing-anagrams.java)
+* [Hashing - Copy List](https://github.com/tachyonlabs/CodePath-Alumni-Professional-Interview-Prep-Course/blob/master/interviewbit-hashing-copy-list.py)
+* [Linked Lists - Remove Duplicates from Sorted List](https://github.com/tachyonlabs/CodePath-Alumni-Professional-Interview-Prep-Course/blob/master/interviewbit-linked-lists-remove-duplicates-from-sorted-list.java)
+* [Linked Lists - Merge Two Sorted Lists](https://github.com/tachyonlabs/CodePath-Alumni-Professional-Interview-Prep-Course/blob/master/interviewbit-linked-lists-merge-two-sorted-lists.java)
+* [Linked Lists - Remove Nth Node from List End](https://github.com/tachyonlabs/CodePath-Alumni-Professional-Interview-Prep-Course/blob/master/interviewbit-linked-lists-remove-nth-node-from-list-end.java)
+* [Linked Lists - Add Two Numbers as Lists](https://github.com/tachyonlabs/CodePath-Alumni-Professional-Interview-Prep-Course/blob/master/interviewbit-linked-lists-add-two-numbers-as-lists.java)
 
 And here's a GIF of my InterviewBit Hashing and Linked Lists topic pages:
 
