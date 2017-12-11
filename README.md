@@ -98,3 +98,25 @@ And here's a GIF of my InterviewBit Hashing and Linked Lists topic pages:
 * [GIF of my InterviewBit Hashing and Linked Lists topic pages](https://github.com/tachyonlabs/CodePath-Alumni-Professional-Interview-Prep-Course/blob/master/interviewbit-hashing-and-linked-lists-topics.gif)
 
 When I went to take the HackerRank "CodePath Interview Prep - Unit 2 Test", once again I got a message about how I had already taken this test last summer and "can't login to a test that you have already completed" -- see the "My situation" description at the beginning of this README for an explanation of that -- so as directed by Patricia in Slack, I took the test as tachyon+alt@tachyonlabs.com instead of tachyon@tachyonlabs.com, and you should have the results.
+
+## Tasks Before Session 3
+
+As shown in this GIF, I've already completed most of the Trees problems, all but two of the Binary Search problems, and all but one of the Heaps and Maps problems, on InterviewBit (mostly in Python, but I've started doing Java versions of some of them as well):
+
+* GIF of my InterviewBit Trees, Binary Search, and Heaps and Maps topic pages
+
+#### My InterviewBit Trees solutions so far:
+
+* Java: Inorder Traversal (recursion version), Inorder Traversal (stack version), Preorder Traversal (recursion version), Preorder Traversal (stack version), Max Depth of Binary Tree, and Min Depth of Binary Tree.
+
+* Python: Next Greater Number BST, Valid Binary Search Tree, Vertical Order traversal of Binary Tree, Inorder Traversal, Postorder Traversal, Preorder Traversal, Identical Binary Trees, Symmetric Binary Tree, Sorted Array To Balanced BST, Binary Tree From Inorder And Postorder, Construct Binary Tree From Inorder And Preorder, Kth Smallest Element In Tree, Invert the Binary Tree, ZigZag Level Order Traversal BT, Populate Next Right Pointers Tree, Path Sum, Root to Leaf Paths With Sum, Max Depth of Binary Tree, Min Depth of Binary Tree, Sum Root to Leaf Numbers, and Flatten Binary Tree to Linked List.
+
+#### My InterviewBit Binary Search solutions so far:
+
+* Java: Square Root of Integer, Allocate Books, and Sorted Insert Position.
+
+* Python: Count Element Occurence, Rotated Array, Square Root of Integer, Painter's Partition Problem, Allocate Books, Matrix Search, Search for a Range, Sorted Insert Position, Implement Power Function, and Rotated Sorted Array Search.
+
+#### My InterviewBit Heaps and Maps solutions so far:
+
+* Python: N max pair combinations, Magician and Chocolates, Merge K Sorted Lists, Distinct Numbers in Window, and LRU Cache.
