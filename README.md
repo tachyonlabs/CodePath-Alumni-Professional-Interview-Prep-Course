@@ -120,3 +120,20 @@ As shown in [this GIF](https://github.com/tachyonlabs/CodePath-Alumni-Profession
 #### My InterviewBit Heaps and Maps solutions so far:
 
 * Python: [N max pair combinations](https://github.com/tachyonlabs/CodePath-Alumni-Professional-Interview-Prep-Course/blob/master/interviewbit-heaps-and-maps-n-max-pair-combinations.py), [Magician and Chocolates](https://github.com/tachyonlabs/CodePath-Alumni-Professional-Interview-Prep-Course/blob/master/interviewbit-heaps-and-maps-magician-and-chocolates.py), [Merge K Sorted Lists](https://github.com/tachyonlabs/CodePath-Alumni-Professional-Interview-Prep-Course/blob/master/interviewbit-heaps-and-maps-merge-k-sorted-lists.py), [Distinct Numbers in Window](https://github.com/tachyonlabs/CodePath-Alumni-Professional-Interview-Prep-Course/blob/master/interviewbit-heaps-and-maps-distinct-numbers-in-window.py), and [LRU Cache](https://github.com/tachyonlabs/CodePath-Alumni-Professional-Interview-Prep-Course/blob/master/interviewbit-heaps-and-maps-lru-cache.py).
+
+## Assignment 3
+
+As I mentioned above, I had already completed most of the Trees, Binary Search, and Heaps and Maps problems on InterviewBit in Python (plus some in Java), but I did six more Java versions for this assignment:
+
+* Trees - Invert the Binary Tree
+* Trees - Path Sum
+* Binary Search - Search for a Range
+* Binary Search - Rotated Sorted Array Search
+* Heaps and Maps - Magician and Chocolates
+* Heaps and Maps - Distinct Numbers in Window
+
+And here's a GIF of my InterviewBit Trees, Binary Search, and Heaps and Maps topic pages:
+
+* [GIF of my InterviewBit Trees, Binary Search, and Heaps and Maps topic pages](https://github.com/tachyonlabs/CodePath-Alumni-Professional-Interview-Prep-Course/blob/master/interviewbit-trees-binary-search-and-heaps-and-maps-topics.gif)
+
+When I went to take the HackerRank "CodePath Interview Prep - Unit 3 Test", once again I got a message about how I had already taken this test last summer and "can't login to a test that you have already completed" -- see the "My situation" description at the beginning of this README for an explanation of that -- so as directed by Patricia in Slack, I took the test as tachyon+alt@tachyonlabs.com instead of tachyon@tachyonlabs.com, and you should have the results.
