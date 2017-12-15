@@ -125,12 +125,12 @@ As shown in [this GIF](https://github.com/tachyonlabs/CodePath-Alumni-Profession
 
 As I mentioned above, I had already completed most of the Trees, Binary Search, and Heaps and Maps problems on InterviewBit in Python (plus some in Java), but I did six more Java versions for this assignment:
 
-* Trees - Invert the Binary Tree
-* Trees - Path Sum
-* Binary Search - Search for a Range
-* Binary Search - Rotated Sorted Array Search
-* Heaps and Maps - Magician and Chocolates
-* Heaps and Maps - Distinct Numbers in Window
+* [Trees - Invert the Binary Tree](https://github.com/tachyonlabs/CodePath-Alumni-Professional-Interview-Prep-Course/blob/master/interviewbit-trees-invert-the-binary-tree.java)
+* [Trees - Path Sum](https://github.com/tachyonlabs/CodePath-Alumni-Professional-Interview-Prep-Course/blob/master/interviewbit-trees-path-sum.java)
+* [Binary Search - Search for a Range](https://github.com/tachyonlabs/CodePath-Alumni-Professional-Interview-Prep-Course/blob/master/interviewbit-binary-search-search-for-a-range.java)
+* [Binary Search - Rotated Sorted Array Search](https://github.com/tachyonlabs/CodePath-Alumni-Professional-Interview-Prep-Course/blob/master/interviewbit-binary-search-rotated-sorted-array-search.java)
+* [Heaps and Maps - Magician and Chocolates](https://github.com/tachyonlabs/CodePath-Alumni-Professional-Interview-Prep-Course/blob/master/interviewbit-heaps-and-maps-magician-and-chocolates.java)
+* [Heaps and Maps - Distinct Numbers in Window](https://github.com/tachyonlabs/CodePath-Alumni-Professional-Interview-Prep-Course/blob/master/interviewbit-heaps-and-maps-distinct-numbers-in-window.java)
 
 And here's a GIF of my InterviewBit Trees, Binary Search, and Heaps and Maps topic pages:
 
