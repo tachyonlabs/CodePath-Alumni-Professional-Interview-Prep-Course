@@ -137,3 +137,19 @@ And here's a GIF of my InterviewBit Trees, Binary Search, and Heaps and Maps top
 * [GIF of my InterviewBit Trees, Binary Search, and Heaps and Maps topic pages](https://github.com/tachyonlabs/CodePath-Alumni-Professional-Interview-Prep-Course/blob/master/interviewbit-trees-binary-search-and-heaps-and-maps-topics.gif)
 
 When I went to take the HackerRank "CodePath Interview Prep - Unit 3 Test", once again I got a message about how I had already taken this test last summer and "can't login to a test that you have already completed" -- see the "My situation" description at the beginning of this README for an explanation of that -- so as directed by Patricia in Slack, I took the test as tachyon+alt@tachyonlabs.com instead of tachyon@tachyonlabs.com, and you should have the results.
+
+## Tasks Before Session 4
+
+As shown in this GIF, I've already completed most of the Backtracking problems, and all of the Bit Manipulation problems, on InterviewBit (mostly in Python, but I've started doing Java versions of some of them as well):
+
+* GIF of my InterviewBit Backtracking and Bit Manipulation topic pages
+
+#### My InterviewBit Backtracking solutions so far: 
+
+Modular Expression, Reverse Link List Recursion, Subset, Combinations, Combination Sum II, Subsets II, Letter Phone, Generate all Parentheses II, NQueens, Permutations, and Gray Code.
+
+#### My InterviewBit Bit Manipulation solutions so far:
+
+* Java: Min XOR value, Number of 1 Bits, Reverse Bits, Single Number, and Single Number II.
+
+* Python: Min XOR value, Number of 1 Bits, Reverse Bits, Divide Integers, Different Bits Sum Pairwise, Single Number, and Single Number II.
