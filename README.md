@@ -173,8 +173,8 @@ When I went to take the HackerRank "CodePath Interview Prep - Unit 4 Test", once
 
 #### My InterviewBit Graphs solutions so far: 
 
-* Level Order, Black Shapes, Capture Regions on Board, and Convert Sorted List to Binary Search Tree.
+* [Level Order](https://github.com/tachyonlabs/CodePath-Alumni-Professional-Interview-Prep-Course/blob/master/interviewbit-graphs-level-order.py), [Black Shapes](https://github.com/tachyonlabs/CodePath-Alumni-Professional-Interview-Prep-Course/blob/master/interviewbit-graphs-black-shapes.py), [Capture Regions on Board](https://github.com/tachyonlabs/CodePath-Alumni-Professional-Interview-Prep-Course/blob/master/interviewbit-graphs-capture-regions-on-board.py), and [Convert Sorted List to Binary Search Tree](https://github.com/tachyonlabs/CodePath-Alumni-Professional-Interview-Prep-Course/blob/master/interviewbit-graphs-convert-sorted-list-to-binary-search-tree.py).
 
 And here's a GIF of my InterviewBit Graphs topic page:
 
-* GIF of my InterviewBit Graphs topic page
+* [GIF of my InterviewBit Graphs topic page](https://github.com/tachyonlabs/CodePath-Alumni-Professional-Interview-Prep-Course/blob/master/interviewbit-graphs-topics.gif)
