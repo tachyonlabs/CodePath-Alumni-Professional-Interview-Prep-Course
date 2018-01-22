@@ -158,13 +158,13 @@ As shown in [this GIF](https://github.com/tachyonlabs/CodePath-Alumni-Profession
 
 As shown in "Tasks Before Session 4" above, I had already completed most of the Backtracking problems on InterviewBit, all the Bit Manipulation problems on InterviewBit in Python, and all but two of them in Java. So now I've done two more Backtracking problems in Python, and Java versions of those last two Bit Manipulation problems:
 
-* Backtracking - Combination Sum
-* Backtracking - Palindrome Partitioning
-* Bit Manipulation - Divide Integers
-* Bit Manipulation - Different Bits Sum Pairwise
+* [Backtracking - Combination Sum](https://github.com/tachyonlabs/CodePath-Alumni-Professional-Interview-Prep-Course/blob/master/interviewbit-backtracking-combination-sum.py)
+* [Backtracking - Palindrome Partitioning](https://github.com/tachyonlabs/CodePath-Alumni-Professional-Interview-Prep-Course/blob/master/interviewbit-backtracking-palindrome-partitioning.py)
+* [Bit Manipulation - Divide Integers](https://github.com/tachyonlabs/CodePath-Alumni-Professional-Interview-Prep-Course/blob/master/interviewbit-bit-manipulation-divide-integers.java)
+* [Bit Manipulation - Different Bits Sum Pairwise](https://github.com/tachyonlabs/CodePath-Alumni-Professional-Interview-Prep-Course/blob/master/interviewbit-bit-manipulation-different-bits-sum-pairwise.java)
 
 And here's a GIF of my InterviewBit Backtracking and Bit Manipulation topic pages:
 
-* GIF of my InterviewBit Backtracking and Bit Manipulation topic pages
+* [GIF of my InterviewBit Backtracking and Bit Manipulation topic pages](https://github.com/tachyonlabs/CodePath-Alumni-Professional-Interview-Prep-Course/blob/master/interviewbit-backtracking-and-bit-manipulation-topics-2.gif)
 
 When I went to take the HackerRank "CodePath Interview Prep - Unit 4 Test", once again I got a message about how I had already taken this test last summer and "can't login to a test that you have already completed" -- see the "My situation" description at the beginning of this README for an explanation of that -- so as directed by Patricia in Slack, I took the test as tachyon+alt@tachyonlabs.com instead of tachyon@tachyonlabs.com, and you should have the results. One interesting thing (to me, anyway) is that while I usually use Python for whiteboarding/programming challenges because it's a very fast/easy/terse language to write, on the second problem I kept getting what was apparently a stack overflow on one of the test cases. I tried putting in some kinds of special casing to head off some of the ways this could happen, but it didn't help. Then I thought I would try submitting in Java instead, because I had the idea that Java might have a larger stack size limit than Python, and my Java version passed all the test cases just fine. So even if I generally find Java fine for Android but clunky and overly verbose for programming challenges, with this it scored some points with me in addition to for me. :-)
