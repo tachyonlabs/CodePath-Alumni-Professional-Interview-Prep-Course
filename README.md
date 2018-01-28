@@ -178,3 +178,18 @@ When I went to take the HackerRank "CodePath Interview Prep - Unit 4 Test", once
 And here's a GIF of my InterviewBit Graphs topic page:
 
 * [GIF of my InterviewBit Graphs topic page](https://github.com/tachyonlabs/CodePath-Alumni-Professional-Interview-Prep-Course/blob/master/interviewbit-graphs-topics.gif)
+
+## Assignment 5
+
+I completed four more InterviewBit Graphs problems:
+
+* Possibility Of Finishing All Courses Given Pre Requisites
+* Word Search Board
+* Knight on Chess Board
+* Clone Graph
+
+And here's a GIF of my updated InterviewBit Graphs topic page:
+
+* GIF of my InterviewBit Graphs topic page
+
+I took the "CodePath Interview Prep - Unit 5" test on January 28, so you should have received it.
