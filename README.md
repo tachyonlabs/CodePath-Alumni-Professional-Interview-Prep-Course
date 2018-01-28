@@ -193,3 +193,16 @@ And here's a GIF of my updated InterviewBit Graphs topic page:
 * [GIF of my updated InterviewBit Graphs topic page](https://github.com/tachyonlabs/CodePath-Alumni-Professional-Interview-Prep-Course/blob/master/interviewbit-graphs-topics-2.gif)
 
 I took the "CodePath Interview Prep - Unit 5" test on January 28, so you should have received it.
+
+## Tasks Before Session 6
+
+I've done four Dynamic Programming problems on InterviewBit so far: 
+
+* Stairs
+* Jump Game Array
+* Min Sum Path in Matrix
+* Min Sum Path in Triangle
+
+And here's a GIF of my InterviewBit Dynamic Programming topic page:
+
+* GIF of my InterviewBit Dynamic Programming topic page
