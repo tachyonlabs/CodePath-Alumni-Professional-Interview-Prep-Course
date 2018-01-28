@@ -183,13 +183,13 @@ And here's a GIF of my InterviewBit Graphs topic page:
 
 I completed four more InterviewBit Graphs problems:
 
-* Possibility Of Finishing All Courses Given Pre Requisites
-* Word Search Board
-* Knight on Chess Board
-* Clone Graph
+* [Possibility Of Finishing All Courses Given Pre Requisites](https://github.com/tachyonlabs/CodePath-Alumni-Professional-Interview-Prep-Course/blob/master/interviewbit-graphs-possibility-of-finishing-all-courses-given-prerequisites.py)
+* [Word Search Board](https://github.com/tachyonlabs/CodePath-Alumni-Professional-Interview-Prep-Course/blob/master/interviewbit-graphs-word-search-board.py)
+* [Knight on Chess Board](https://github.com/tachyonlabs/CodePath-Alumni-Professional-Interview-Prep-Course/blob/master/interviewbit-graphs-knight-on-chess-board.py)
+* [Clone Graph](https://github.com/tachyonlabs/CodePath-Alumni-Professional-Interview-Prep-Course/blob/master/interviewbit-graphs-clone-graph.py)
 
 And here's a GIF of my updated InterviewBit Graphs topic page:
 
-* GIF of my InterviewBit Graphs topic page
+* [GIF of my updated InterviewBit Graphs topic page](https://github.com/tachyonlabs/CodePath-Alumni-Professional-Interview-Prep-Course/blob/master/interviewbit-graphs-topics-2.gif)
 
 I took the "CodePath Interview Prep - Unit 5" test on January 28, so you should have received it.
