@@ -211,20 +211,20 @@ And here's a GIF of my InterviewBit Dynamic Programming topic page:
 
 I did eleven more Dynamic Programming problems on InterviewBit:
 
-* Length of Longest Subsequence
-* Ways to Decode
-* Best Time to Buy and Sell Stocks III
-* Best Time to Buy and Sell Stocks I
-* Best Time to Buy and Sell Stocks II
-* Max Sum Without Adjacent Elements
-* Edit Distance
-* Longest Increasing Subsequence
-* Max Sum Path in Binary Tree
-* Unique Binary Search Trees II
-* Word Break
+* [Length of Longest Subsequence](https://github.com/tachyonlabs/CodePath-Alumni-Professional-Interview-Prep-Course/blob/master/interviewbit-dynamic-programming-length-of-longest-subsequence.py)
+* [Ways to Decode](https://github.com/tachyonlabs/CodePath-Alumni-Professional-Interview-Prep-Course/blob/master/interviewbit-dynamic-programming-ways-to-decode.py)
+* [Best Time to Buy and Sell Stocks III](https://github.com/tachyonlabs/CodePath-Alumni-Professional-Interview-Prep-Course/blob/master/interviewbit-dynamic-programming-best-time-to-buy-and-sell-stocks-iii.py)
+* [Best Time to Buy and Sell Stocks I](https://github.com/tachyonlabs/CodePath-Alumni-Professional-Interview-Prep-Course/blob/master/interviewbit-dynamic-programming-best-time-to-buy-and-sell-stocks-i.py)
+* [Best Time to Buy and Sell Stocks II](https://github.com/tachyonlabs/CodePath-Alumni-Professional-Interview-Prep-Course/blob/master/interviewbit-dynamic-programming-best-time-to-buy-and-sell-stocks-ii.py)
+* [Max Sum Without Adjacent Elements](https://github.com/tachyonlabs/CodePath-Alumni-Professional-Interview-Prep-Course/blob/master/interviewbit-dynamic-programming-max-sum-without-adjacent-elements.py)
+* [Edit Distance](https://github.com/tachyonlabs/CodePath-Alumni-Professional-Interview-Prep-Course/blob/master/interviewbit-dynamic-programming-edit-distance.py)
+* [Longest Increasing Subsequence](https://github.com/tachyonlabs/CodePath-Alumni-Professional-Interview-Prep-Course/blob/master/interviewbit-dynamic-programming-longest-increasing-subsequence.py)
+* [Max Sum Path in Binary Tree](https://github.com/tachyonlabs/CodePath-Alumni-Professional-Interview-Prep-Course/blob/master/interviewbit-dynamic-programming-max-sum-path-in-binary-tree.py)
+* [Unique Binary Search Trees II](https://github.com/tachyonlabs/CodePath-Alumni-Professional-Interview-Prep-Course/blob/master/interviewbit-dynamic-programming-unique-binary-search-trees-ii.py)
+* [Word Break](https://github.com/tachyonlabs/CodePath-Alumni-Professional-Interview-Prep-Course/blob/master/interviewbit-dynamic-programming-word-break.py)
 
 And here's a GIF of my updated InterviewBit Dynamic Programming topic page:
 
-* GIF of my updated InterviewBit Dynamic Programming topic page
+* [GIF of my updated InterviewBit Dynamic Programming topic page](https://github.com/tachyonlabs/CodePath-Alumni-Professional-Interview-Prep-Course/blob/master/interviewbit-dynamic-programming-topic-2.gif)
 
 I took the "CodePath Interview Prep - Unit 6" test on February 4, so you should have received it.
