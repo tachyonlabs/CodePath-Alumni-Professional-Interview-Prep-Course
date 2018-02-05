@@ -206,3 +206,25 @@ I've done four Dynamic Programming problems on InterviewBit so far:
 And here's a GIF of my InterviewBit Dynamic Programming topic page:
 
 * [GIF of my InterviewBit Dynamic Programming topic page](https://github.com/tachyonlabs/CodePath-Alumni-Professional-Interview-Prep-Course/blob/master/interviewbit-dynamic-programming-topic.gif)
+
+## Assignment 6
+
+I did eleven more Dynamic Programming problems on InterviewBit:
+
+* Length of Longest Subsequence
+* Ways to Decode
+* Best Time to Buy and Sell Stocks III
+* Best Time to Buy and Sell Stocks I
+* Best Time to Buy and Sell Stocks II
+* Max Sum Without Adjacent Elements
+* Edit Distance
+* Longest Increasing Subsequence
+* Max Sum Path in Binary Tree
+* Unique Binary Search Trees II
+* Word Break
+
+And here's a GIF of my updated InterviewBit Dynamic Programming topic page:
+
+* GIF of my updated InterviewBit Dynamic Programming topic page
+
+I took the "CodePath Interview Prep - Unit 6" test on February 4, so you should have received it.
