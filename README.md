@@ -238,4 +238,4 @@ I took the "CodePath Interview Prep - Unit 6" test on February 4, so you should 
 I still have a lot of work to do on completing my Android Topic Questions Google Doc, I will continue to update it in the days to come.
 
 * [My Android Topic Questions Google Doc](https://docs.google.com/document/d/1Nv14LsQ2iQXEDuw6LrXlUBIEhdVrtrqXvX3d43Ty4JI/edit?usp=sharing)
-* A gif of scrolling through my Android Topic Questions Google Doc
+* [A gif of scrolling through my Android Topic Questions Google Doc](https://github.com/tachyonlabs/CodePath-Alumni-Professional-Interview-Prep-Course/blob/master/assignment-8.gif)
