@@ -228,3 +228,14 @@ And here's a GIF of my updated InterviewBit Dynamic Programming topic page:
 * [GIF of my updated InterviewBit Dynamic Programming topic page](https://github.com/tachyonlabs/CodePath-Alumni-Professional-Interview-Prep-Course/blob/master/interviewbit-dynamic-programming-topic-2.gif)
 
 I took the "CodePath Interview Prep - Unit 6" test on February 4, so you should have received it.
+
+## Assignment 7
+
+* [My Assignment 7 repo](https://github.com/tachyonlabs/Assignment-7)
+
+## Assignment 8
+
+I still have a lot of work to do on completing my Android Topic Questions Google Doc, I will continue to update it in the days to come.
+
+* [My Android Topic Questions Google Doc](https://docs.google.com/document/d/1Nv14LsQ2iQXEDuw6LrXlUBIEhdVrtrqXvX3d43Ty4JI/edit?usp=sharing)
+* A gif of scrolling through my Android Topic Questions Google Doc
